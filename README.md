@@ -89,7 +89,11 @@ This project is an **IoT-based Smart Water Management System** designed to monit
 
 | System Description                                                        | Final Setup              |
 | ------------------------------------------------------------------------- | ------------------------ |
-| ![Description 1](Docs/Discription1.png) ![Description 2](Docs/Discription2.png) | ![Final](Docs/Final.png) |
+| ![Description 1](Docs/Discription1.png) |
+| ![Description 2](Docs/Discription2.png) | 
+
+
+|![Final](Docs/Final.png) |
 
 | Readings                    | Water Usage                             |
 | --------------------------- | --------------------------------------- |
