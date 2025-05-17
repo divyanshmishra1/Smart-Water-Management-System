@@ -87,14 +87,9 @@ This project is an **IoT-based Smart Water Management System** designed to monit
 | ------------------------------------- | ------------------------------------- |
 | ![Block Diagram](Docs/Block_Diagram.png) | ![Circuit Diagram](Docs/ckt_diagram.png) |
 
-| System Description                                                        |
-| ------------------------------------------------------------------------- |
-| ![Description 1](Docs/Discription1.png)                                   |
-| ![Description 2](Docs/Discription2.png)                                   | 
-
-| Final Setup                                                         |
-|               ------------------------                              |
-|               ![Final](Docs/Final.png)                              |
+| System Description                                                        | Final Setup              |
+| ------------------------------------------------------------------------- | ------------------------ |
+| ![Description 1](Docs/Discription1.png) ![Description 2](https://github.com/divyanshmishra1/Smart-Water-Management-System/blob/main/Docs/Discription2.png) | ![Final](https://github.com/divyanshmishra1/Smart-Water-Management-System/blob/main/Docs/Final%20.png) |
 
 | Readings                    | Water Usage                             |
 | --------------------------- | --------------------------------------- |
